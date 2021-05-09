@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 from datetime import datetime
 import random
 import encryptdecrypt
-import scissorpaperrock
 
 
 #Default replies
